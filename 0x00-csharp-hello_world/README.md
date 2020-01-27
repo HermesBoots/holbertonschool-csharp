@@ -32,3 +32,6 @@ Print numbers using special numeric formatting.
 
 ## Copy - Cut - Paste
 Various substring operations.
+
+## Create a New Sentence
+Pick words from a long string.
