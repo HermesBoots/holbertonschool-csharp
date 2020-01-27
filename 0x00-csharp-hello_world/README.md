@@ -26,3 +26,6 @@ Concatenate strings together with one line.
 
 ## Print Variables
 Print variables of different types at once.
+
+## Print Specifiers
+Print numbers using special numeric formatting.
