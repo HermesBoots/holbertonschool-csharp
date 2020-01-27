@@ -23,3 +23,6 @@ Print string repeatedly and a substring using just `Console.WriteLine`.
 
 ## Play with Strings
 Concatenate strings together with one line.
+
+## Print Variables
+Print variables of different types at once.
