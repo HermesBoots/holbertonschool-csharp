@@ -29,3 +29,6 @@ Print variables of different types at once.
 
 ## Print Specifiers
 Print numbers using special numeric formatting.
+
+## Copy - Cut - Paste
+Various substring operations.
