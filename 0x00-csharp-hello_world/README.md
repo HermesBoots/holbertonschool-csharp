@@ -20,3 +20,6 @@ Fill in the blanks in source code to print a float.
 
 ## Print String
 Print string repeatedly and a substring using just `Console.WriteLine`.
+
+## Play with Strings
+Concatenate strings together with one line.
