@@ -17,3 +17,6 @@ Fill in the blanks in source code to print an integer.
 
 ## Print Float
 Fill in the blanks in source code to print a float.
+
+## Print String
+Print string repeatedly and a substring using just `Console.WriteLine`.
