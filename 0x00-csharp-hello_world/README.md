@@ -14,3 +14,6 @@ Print a line in C#.
 
 ## Print Integer
 Fill in the blanks in source code to print an integer.
+
+## Print Float
+Fill in the blanks in source code to print a float.
