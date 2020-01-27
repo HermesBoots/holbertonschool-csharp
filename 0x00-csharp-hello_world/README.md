@@ -11,3 +11,6 @@ Create, build, and run a new .NET project.
 
 ## Hello, `WriteLine`
 Print a line in C#.
+
+## Print Integer
+Fill in the blanks in source code to print an integer.
