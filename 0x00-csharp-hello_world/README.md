@@ -35,3 +35,6 @@ Various substring operations.
 
 ## Create a New Sentence
 Pick words from a long string.
+
+## Hello, Error
+Print to standard error and exit unsuccessfully.
