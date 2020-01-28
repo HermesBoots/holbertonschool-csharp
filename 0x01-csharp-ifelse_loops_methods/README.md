@@ -23,3 +23,6 @@ Printing numbers with unique digit combinations.
 
 ## `islower`
 Check if a character is a lowercase letter.
+
+## There Are Only 3 Colors, 10 Digits, and 7 Notes; It's What We Do with Them That's Important
+Get the last digit of an integer.
