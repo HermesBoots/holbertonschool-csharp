@@ -32,3 +32,6 @@ A method to add 2 numbers.
 
 ## The Shortest Distance between Two Points Is a Straight Line
 Print a line with a length given as an argument.
+
+## I Feel like I Am Diagonally Parked in a Parallel Universe
+Draw a diagonal line with the height given as an argument.
