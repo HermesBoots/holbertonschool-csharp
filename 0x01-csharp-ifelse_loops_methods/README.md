@@ -20,3 +20,6 @@ Printing numbers from 0 to 99, neatly separated.
 
 ## Inventing Is a Combination of Brains and Materials. The More Brains You Use, the Less Material You Need
 Printing numbers with unique digit combinations.
+
+## `islower`
+Check if a character is a lowercase letter.
