@@ -14,3 +14,6 @@ Print all but a couple letters in the alphabet.
 
 ## Hexadecimal Printing
 Print numbers in base 10 and base 16.
+
+## 00..99
+Printing numbers from 0 to 99, neatly separated.
