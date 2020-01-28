@@ -7,6 +7,7 @@ class Program
     {
         System.Collections.Generic.IEnumerable<string> seq;
         seq = Enumerable.Range(0, 100).Select(n => n.ToString("D2"));
-        Console.WriteLine(String.Join(", ", seq));
+        for (bool b = true; b; b = false)
+            Console.WriteLine(String.Join(", ", seq));
     }
 }
