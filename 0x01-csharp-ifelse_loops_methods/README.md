@@ -8,3 +8,6 @@ Checking the last digit in a random number.
 
 ## I Sometimes Suffer from Insomnia. And When I Can't Fall Asleep, I Play What I Call the Alphabet Game
 Print the alphabet in lower case.
+
+## When I Was Having That Alphabet Soup, I Never Thought That It Would Pay Off
+Print all but a couple letters in the alphabet.
