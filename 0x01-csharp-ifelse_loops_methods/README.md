@@ -11,3 +11,6 @@ Print the alphabet in lower case.
 
 ## When I Was Having That Alphabet Soup, I Never Thought That It Would Pay Off
 Print all but a couple letters in the alphabet.
+
+## Hexadecimal Printing
+Print numbers in base 10 and base 16.
