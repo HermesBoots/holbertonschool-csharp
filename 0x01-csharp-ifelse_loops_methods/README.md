@@ -29,3 +29,6 @@ Get the last digit of an integer.
 
 ## `a + b`
 A method to add 2 numbers.
+
+## The Shortest Distance between Two Points Is a Straight Line
+Print a line with a length given as an argument.
