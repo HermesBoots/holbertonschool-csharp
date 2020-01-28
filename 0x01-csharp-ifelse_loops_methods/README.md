@@ -17,3 +17,6 @@ Print numbers in base 10 and base 16.
 
 ## 00..99
 Printing numbers from 0 to 99, neatly separated.
+
+## Inventing Is a Combination of Brains and Materials. The More Brains You Use, the Less Material You Need
+Printing numbers with unique digit combinations.
