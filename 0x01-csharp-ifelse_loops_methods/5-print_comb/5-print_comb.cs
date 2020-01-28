@@ -5,12 +5,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        string sep = ", ";
-        foreach (int i in Enumerable.Range(0, 100)) {
-            if (i == 99)
-                sep = "";
-            Console.Write("{0:D2}{1}", i, sep);
-        }
+        System.Collections.Generic.IEnumerable<string> seq;
+        seq = Enumerable.Range(0, 100).Select(n => n.ToString("D2"));
+        for (bool b = true; b; b = false)
+            Console.Write(String.Join(", ", seq));
         Console.WriteLine();
     }
 }
