@@ -1,10 +1,15 @@
 using System;
+using System.Linq;
 
 class Program
 {
     static void Main(string[] args)
     {
-        for (int i = 0; i < 99; i++)
-            Console.Write("{0:D} = 0x{0:X}\n", i);
+        Console.WriteLine(String.Join(
+            "\n", 
+            Enumerable.Range(0, 99).Select(
+                i => String.Concat(i.ToString("d"), " = 0x", i.ToString("x"))
+            )
+        ));
     }
 }
