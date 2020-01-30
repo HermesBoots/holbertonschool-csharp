@@ -35,3 +35,6 @@ Delete a value from a dictionary.
 
 ## Multiply by 2
 Double all values in a dictionary.
+
+## Print Sorted Dictionary
+Print a dictionary, sorted by key.
