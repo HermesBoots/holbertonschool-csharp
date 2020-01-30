@@ -26,3 +26,6 @@ Delete an item in an array without the existing `DeleteAt` method.
 
 ## Number of Keys
 Count the number of keys in a dictionary without the `Count` property.
+
+## Update Dictionary
+Create or update a value with a specified key in a dictionary.
