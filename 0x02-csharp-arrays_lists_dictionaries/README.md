@@ -29,3 +29,6 @@ Count the number of keys in a dictionary without the `Count` property.
 
 ## Update Dictionary
 Create or update a value with a specified key in a dictionary.
+
+## Delete from Dictionary
+Delete a value from a dictionary.
