@@ -47,3 +47,6 @@ Print a two-dimensional array with an altered center.
 
 ## Matrix Squared
 Square the values in a matrix.
+
+## Jagged Array
+Create and print an array of arrays instead of a multi-dimensional array.
