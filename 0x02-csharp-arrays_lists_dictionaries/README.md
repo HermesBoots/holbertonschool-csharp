@@ -14,3 +14,6 @@ Printing an array of integers backward with a null check.
 
 ## Print a List of Integers
 Create a list, instead of an array, from a range of consecutive integers.
+
+## Find the Max
+Find the maximum value in a list of integer without existing utility methods.
