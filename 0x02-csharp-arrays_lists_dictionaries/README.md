@@ -17,3 +17,6 @@ Create a list, instead of an array, from a range of consecutive integers.
 
 ## Find the Max
 Find the maximum value in a list of integer without existing utility methods.
+
+## Only by 2
+Create a filter list showing which values in a list are divisible by 2.
