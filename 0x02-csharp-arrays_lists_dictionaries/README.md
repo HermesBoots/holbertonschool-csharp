@@ -38,3 +38,6 @@ Double all values in a dictionary.
 
 ## Print Sorted Dictionary
 Print a dictionary, sorted by key.
+
+## Best Score
+Find key in dictionary with largest value.
