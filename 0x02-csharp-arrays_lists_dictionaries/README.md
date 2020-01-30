@@ -41,3 +41,6 @@ Print a dictionary, sorted by key.
 
 ## Best Score
 Find key in dictionary with largest value.
+
+## Rectangular Array
+Print a two-dimensional array with an altered center.
