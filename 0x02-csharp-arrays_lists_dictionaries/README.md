@@ -32,3 +32,6 @@ Create or update a value with a specified key in a dictionary.
 
 ## Delete from Dictionary
 Delete a value from a dictionary.
+
+## Multiply by 2
+Double all values in a dictionary.
