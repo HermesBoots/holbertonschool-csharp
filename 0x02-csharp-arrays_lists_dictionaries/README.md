@@ -8,3 +8,6 @@ Method to retrieve element from array at an index given as an argument.
 
 ## Replace Element
 Replace an element in an array at an index given as an argument.
+
+## Print an Array of Integers... in Reverse!
+Printing an array of integers backward with a null check.
