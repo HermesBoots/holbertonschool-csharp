@@ -23,3 +23,6 @@ Create a filter list showing which values in a list are divisible by 2.
 
 ## Delete At
 Delete an item in an array without the existing `DeleteAt` method.
+
+## Number of Keys
+Count the number of keys in a dictionary without the `Count` property.
