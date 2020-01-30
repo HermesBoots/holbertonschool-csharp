@@ -20,3 +20,6 @@ Find the maximum value in a list of integer without existing utility methods.
 
 ## Only by 2
 Create a filter list showing which values in a list are divisible by 2.
+
+## Delete At
+Delete an item in an array without the existing `DeleteAt` method.
