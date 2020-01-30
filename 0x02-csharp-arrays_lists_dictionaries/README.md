@@ -11,3 +11,6 @@ Replace an element in an array at an index given as an argument.
 
 ## Print an Array of Integers... in Reverse!
 Printing an array of integers backward with a null check.
+
+## Print a List of Integers
+Create a list, instead of an array, from a range of consecutive integers.
