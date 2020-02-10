@@ -17,3 +17,6 @@ Print information about a queue and search through it.
 
 ## Print a `LinkedList`
 Create and print a linked list made of consecutive integers.
+
+## `LinkedList` Length
+Find length of a linked list without `LinkedList.Count`.
