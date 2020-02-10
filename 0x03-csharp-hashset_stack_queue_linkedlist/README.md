@@ -14,3 +14,6 @@ Print information about a stack and search through it.
 
 ## Queue It Up
 Print information about a queue and search through it.
+
+## Print a `LinkedList`
+Create and print a linked list made of consecutive integers.
