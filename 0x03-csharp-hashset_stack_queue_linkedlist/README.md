@@ -29,3 +29,6 @@ Get the index of a value in a linked list.
 
 ## Pop
 Remove the first item from a linked list and return its value.
+
+## Get Node at Index
+Get a node at a specified index in a linked list.
