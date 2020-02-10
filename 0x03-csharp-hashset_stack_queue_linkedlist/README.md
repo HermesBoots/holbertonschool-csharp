@@ -26,3 +26,6 @@ Add a new node to the start of a linked list and return the whole node.
 
 ## Find Value
 Get the index of a value in a linked list.
+
+## Pop
+Remove the first item from a linked list and return its value.
