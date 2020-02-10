@@ -8,3 +8,6 @@ Find the intersection of two sets and return sorted result.
 
 ## Only Differents
 Find the elements not shared in two lists and return them, sorted.
+
+## Full Stack
+Print information about a stack and search through it.
