@@ -32,3 +32,6 @@ Remove the first item from a linked list and return its value.
 
 ## Get Node at Index
 Get a node at a specified index in a linked list.
+
+## `LinkedList` Sum
+Return sum of values in a linked list.
