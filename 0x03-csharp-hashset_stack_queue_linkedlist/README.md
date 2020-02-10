@@ -20,3 +20,6 @@ Create and print a linked list made of consecutive integers.
 
 ## `LinkedList` Length
 Find length of a linked list without `LinkedList.Count`.
+
+## Add Node to the Beginning
+Add a new node to the start of a linked list and return the whole node.
