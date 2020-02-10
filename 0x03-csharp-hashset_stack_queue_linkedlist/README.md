@@ -35,3 +35,6 @@ Get a node at a specified index in a linked list.
 
 ## `LinkedList` Sum
 Return sum of values in a linked list.
+
+## Insert at Index
+Insert an item into a linked list at a specified index.
