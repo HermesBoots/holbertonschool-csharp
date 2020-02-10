@@ -38,3 +38,6 @@ Return sum of values in a linked list.
 
 ## Insert at Index
 Insert an item into a linked list at a specified index.
+
+## Delete at Index
+Delete an item at a specified index from a linked list.
