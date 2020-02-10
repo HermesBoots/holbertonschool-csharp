@@ -11,3 +11,6 @@ Find the elements not shared in two lists and return them, sorted.
 
 ## Full Stack
 Print information about a stack and search through it.
+
+## Queue It Up
+Print information about a queue and search through it.
