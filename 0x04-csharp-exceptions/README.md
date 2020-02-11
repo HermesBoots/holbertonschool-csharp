@@ -8,3 +8,6 @@ Divide while avoiding "divide by zero" exceptions.
 
 ## Divide Lists
 Divide values in lists, handling exceptions from both previous tasks.
+
+## Throw Exception
+Throw a meaningless exception.
