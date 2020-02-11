@@ -11,3 +11,6 @@ Divide values in lists, handling exceptions from both previous tasks.
 
 ## Throw Exception
 Throw a meaningless exception.
+
+## Throw Exception with Message
+Throw an exception with a specified error message.
