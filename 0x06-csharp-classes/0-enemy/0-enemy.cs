@@ -1,0 +1,6 @@
+namespace Enemies
+{
+    class Zombie
+    {
+    }
+}
