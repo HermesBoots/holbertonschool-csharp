@@ -8,3 +8,6 @@ Add a field and a constructor to a class.
 
 ## Health Validation
 Add a constructor with argument validation.
+
+## Zombie Health
+Use a private field with a getter method.
