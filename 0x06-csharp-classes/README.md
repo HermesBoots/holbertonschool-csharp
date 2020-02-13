@@ -14,3 +14,6 @@ Use a private field with a getter method.
 
 ## Hello, My Name Is
 Add a private field and read/write property for it.
+
+## Printing a Zombie
+Getting a string representation of a class.
