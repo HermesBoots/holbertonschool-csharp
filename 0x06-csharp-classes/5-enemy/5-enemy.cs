@@ -20,7 +20,7 @@ namespace Enemies
         /// <returns>A description of this object's fields.</returns>
         public override string ToString()
         {
-            return $"Zombie name: {this.name} / Total Health: {this.health}";
+            return $"Zombie Name: {this.name} / Total Health: {this.health}";
         }
 
         /// <summary>Initializes a new <see cref="Zombie"/> instance with default health.</summary>
