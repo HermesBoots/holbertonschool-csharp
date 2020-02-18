@@ -11,3 +11,6 @@ Find the largest integer in a list.
 
 ## Desserts, I Stressed!
 Determine whether a string is a palindrome.
+
+## Unique Character
+Find a unique character in a string.
