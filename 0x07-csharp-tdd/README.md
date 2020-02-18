@@ -14,3 +14,6 @@ Determine whether a string is a palindrome.
 
 ## Unique Character
 Find a unique character in a string.
+
+## camelCase
+Find the number of words in a camel-case string.

@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 configPattern='\s*<\/PropertyGroup>'
-docConfig='\ \ \ \ <DocumentationFile>bin\\$(Configuration)\\$(TargetFramework)\\$(AssemblyName).xml<\/DocumentationFile>\r\n'
+docConfig='    <DocumentationFile>bin\\$(Configuration)\\$(TargetFramework)\\$(AssemblyName).xml<\/DocumentationFile>\r\n'
 
 mkdir "$1"
 cd "$1"
