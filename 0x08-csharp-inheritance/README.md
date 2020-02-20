@@ -23,3 +23,6 @@ A subclass of `Shape` with properties.
 
 ## Full Rectangle
 Extend the `Rectangle` class from previous task.
+
+## Square #1
+Add a `Square` class inheriting from `Rectangle`.
