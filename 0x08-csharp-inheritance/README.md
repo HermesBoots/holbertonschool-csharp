@@ -11,3 +11,6 @@ Check if a type is a subclass of another type.
 
 ## Type
 Print the property and method names of a type.
+
+## It's Not a Lesson in Classes and Inheritance without a Dog
+Simple base and subclass.
