@@ -20,3 +20,6 @@ A simple base class with one virtual method.
 
 ## Rectangle
 A subclass of `Shape` with properties.
+
+## Full Rectangle
+Extend the `Rectangle` class from previous task.
