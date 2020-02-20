@@ -14,3 +14,6 @@ Print the property and method names of a type.
 
 ## It's Not a Lesson in Classes and Inheritance without a Dog
 Simple base and subclass.
+
+## Basic Shapes
+A simple base class with one virtual method.
