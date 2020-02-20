@@ -17,3 +17,6 @@ Simple base and subclass.
 
 ## Basic Shapes
 A simple base class with one virtual method.
+
+## Rectangle
+A subclass of `Shape` with properties.
