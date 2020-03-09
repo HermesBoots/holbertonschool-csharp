@@ -35,3 +35,6 @@ Dot product of 2D vectors.
 
 ## Dot Product #1 - 3D
 Dot product of 3D vectors.
+
+## Dot Product #2
+Method to get dot product of vectors.
