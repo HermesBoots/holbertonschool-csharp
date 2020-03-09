@@ -20,3 +20,6 @@ Add 3D vectors.
 
 ## Vector Addition #2
 Method to add vectors.
+
+## Vector-Scalar Multiplication #0 - 2D
+Multiply vector by scalar.
