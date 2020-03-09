@@ -44,3 +44,6 @@ Add two matrices.
 
 ## Matrix Addition #1
 Method to add matrices.
+
+## Matrix-Scalar Multiplication #0
+Multiply matrix by scalar.
