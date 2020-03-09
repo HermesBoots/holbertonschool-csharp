@@ -26,3 +26,6 @@ Multiply vector by scalar.
 
 ## Vector-Scalar Multiplication #1 - 3D
 Multiply 3D vector by scalar.
+
+## Vector-Scalar Multiplication #2
+Method to multiply vectors by scalars.
