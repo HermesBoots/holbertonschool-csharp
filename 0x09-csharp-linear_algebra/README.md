@@ -8,3 +8,6 @@ Find distance between points.
 
 ## Magnitude #1 - 3D
 Find distance between 3D points.
+
+## Vector Addition #0 - 2D
+Add two vectors.
