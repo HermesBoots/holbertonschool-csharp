@@ -29,3 +29,6 @@ Multiply 3D vector by scalar.
 
 ## Vector-Scalar Multiplication #2
 Method to multiply vectors by scalars.
+
+## Dot Product #0 - 2D
+Dot product of 2D vectors.
