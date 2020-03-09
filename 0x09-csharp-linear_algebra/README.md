@@ -17,3 +17,6 @@ Add two vectors.
 
 ## Vector Addition #1 - 3D
 Add 3D vectors.
+
+## Vector Addition #2
+Method to add vectors.
