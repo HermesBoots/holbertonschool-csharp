@@ -32,3 +32,6 @@ Method to multiply vectors by scalars.
 
 ## Dot Product #0 - 2D
 Dot product of 2D vectors.
+
+## Dot Product #1 - 3D
+Dot product of 3D vectors.
