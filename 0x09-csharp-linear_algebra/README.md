@@ -11,3 +11,6 @@ Find distance between 3D points.
 
 ## Vector Addition #0 - 2D
 Add two vectors.
+
+## Vector Addition #1 - 3D
+Add 3D vectors.
