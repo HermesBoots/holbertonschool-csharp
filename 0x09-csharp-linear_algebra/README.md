@@ -41,3 +41,6 @@ Method to get dot product of vectors.
 
 ## Matrix Addition #0
 Add two matrices.
+
+## Matrix Addition #1
+Method to add matrices.
