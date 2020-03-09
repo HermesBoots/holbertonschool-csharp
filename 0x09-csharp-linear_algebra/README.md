@@ -38,3 +38,6 @@ Dot product of 3D vectors.
 
 ## Dot Product #2
 Method to get dot product of vectors.
+
+## Matrix Addition #0
+Add two matrices.
