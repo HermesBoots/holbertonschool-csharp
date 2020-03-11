@@ -7,9 +7,9 @@ class MatrixMath
     /// <returns>New matrix as result of multiplication.</returns>
     public static double[,] Multiply(double[,] matrix1, double[,] matrix2) {
         if (matrix1 is null || matrix2 is null)
-            return new double[,] { { -1 } };
+            return new double[,] { { -1, -1 }, { -1, -1 } };
         if (matrix1.GetLength(0) != matrix2.GetLength(1))
-            return new double[,] { { -1 } };
+            return new double[,] { { -1, -1 }, { -1, -1 } };
         double[,] ret = new double[matrix1.GetLength(1), matrix2.GetLength(0)];
         for (int y = 0; y < ret.GetLength(0); y++)
             for (int x = 0; x < ret.GetLength(1); x++) {
