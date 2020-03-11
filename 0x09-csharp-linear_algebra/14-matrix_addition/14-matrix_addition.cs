@@ -10,7 +10,7 @@ class MatrixMath
     /// <param name="matrix2">Second matrix.</param>
     /// <returns>Sum of the matrices.</returns>
     public static double[,] Add(double[,] matrix1, double[,] matrix2) {
-        double[,] fail = { { -1, -1 }, { -1, -1 } };
+        double[,] fail = { { -1 } };
         if (matrix1 is null || matrix1.Rank != 2)
             return fail;
         if (matrix2 is null || matrix2.Rank != 2)
