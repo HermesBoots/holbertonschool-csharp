@@ -1,7 +1,12 @@
+/// <summary>Contains operations to perform on matrices.</summary>
 class MatrixMath
 {
+    /// <summary>Multiplies a matrix by a scalar.</summary>
+    /// <param name="matrix">Matrix to multiply.</param>
+    /// <param name="scalar">Scalar to multiply matrix by.</param>
+    /// <returns>New matrix as result of multiplication.</returns>
     public static double[,] MultiplyScalar(double[,] matrix, double scalar) {
-        if (matrix is null || matrix.Rank < 2 || matrix.Rank > 3)
+        if (matrix is null)
             return new double[,] { { -1 } };
         double[,] ret = (double[,])matrix.Clone();
         for (int x = 0; x < ret.GetLength(0); x++)
