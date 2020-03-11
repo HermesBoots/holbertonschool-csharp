@@ -50,3 +50,6 @@ Multiply matrix by scalar.
 
 ## Matrix-Scalar Multiplication #1
 Method to multiply matrix by scalar.
+
+## Matrix-Matrix Multiplication #0
+Multiply two matrices.
