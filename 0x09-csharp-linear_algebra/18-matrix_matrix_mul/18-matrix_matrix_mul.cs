@@ -8,16 +8,15 @@ class MatrixMath
     public static double[,] Multiply(double[,] matrix1, double[,] matrix2) {
         if (matrix1 is null || matrix2 is null)
             return new double[,] { { -1, -1 }, { -1, -1 } };
-        if (matrix1.GetLength(1) != matrix2.GetLength(0))
+        if (matrix1.GetLength(0) != matrix2.GetLength(1))
             return new double[,] { { -1, -1 }, { -1, -1 } };
-        double[,] ret = new double[matrix1.GetLength(0), matrix2.GetLength(1)];
-        for (int y = 0; y < ret.GetLength(1); y++)
-            for (int x = 0; x < ret.GetLength(0); x++) {
+        double[,] ret = new double[matrix1.GetLength(1), matrix2.GetLength(0)];
+        for (int y = 0; y < ret.GetLength(0); y++)
+            for (int x = 0; x < ret.GetLength(1); x++) {
                 double sum = 0;
-                for (int i = 0; i < matrix1.GetLength(0); i++) {
-                    sum += matrix1[i, y] * matrix2[x, i];
-                }
-                ret[x, y] = sum;
+                for (int i = 0; i < matrix1.GetLength(1); i++)
+                    sum += matrix1[y, i] * matrix2[i, x];
+                ret[y, x] = sum;
             }
         return ret;
     }
