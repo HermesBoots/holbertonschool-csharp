@@ -56,3 +56,6 @@ Multiply two matrices.
 
 ## Matrix-Matrix Multiplication #1
 Method to multiply two matrices.
+
+## Matrix Rotation #0
+Rotate matrix by an angle.
