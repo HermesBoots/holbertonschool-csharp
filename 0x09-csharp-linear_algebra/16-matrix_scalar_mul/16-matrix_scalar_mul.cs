@@ -8,7 +8,7 @@ class MatrixMath
     public static double[,] MultiplyScalar(double[,] matrix, double scalar) {
         if (matrix is null)
             return new double[,] { { -1 } };
-        if (!(matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2) || !(matrix.GetLength(0) == 3 || matrix.GetLength(1) == 3))
+        if (!(matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2) && !(matrix.GetLength(0) == 3 || matrix.GetLength(1) == 3))
             return new double[,] { { -1 } };
         double[,] ret = (double[,])matrix.Clone();
         for (int x = 0; x < ret.GetLength(0); x++)
