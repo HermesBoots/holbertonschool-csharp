@@ -13,7 +13,6 @@ class VectorMath
         if (vector.Length > 2)
             ret += Math.Pow(vector[2], 2);
         ret = Math.Sqrt(ret);
-        ret = Math.Round(ret, 1);
         return ret;
     }
 }
