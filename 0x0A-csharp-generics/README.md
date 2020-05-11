@@ -14,3 +14,6 @@ Get the next item in the queue.
 
 ## Print
 Print the contents of a queue.
+
+## Concatenate
+Join the text stored in the queue.
