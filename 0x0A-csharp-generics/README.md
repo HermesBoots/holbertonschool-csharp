@@ -8,3 +8,6 @@ Create a node member class and method to enqueue elements.
 
 ## Dequeue
 Method to remove elements from the queue.
+
+## Peek
+Get the next item in the queue.
