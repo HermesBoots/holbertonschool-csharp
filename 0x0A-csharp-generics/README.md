@@ -11,3 +11,6 @@ Method to remove elements from the queue.
 
 ## Peek
 Get the next item in the queue.
+
+## Print
+Print the contents of a queue.
