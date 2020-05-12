@@ -1,3 +1,6 @@
+using System;
+
+
 /// <summary>A sample abstract class.</summary>
 public abstract class Base
 {
