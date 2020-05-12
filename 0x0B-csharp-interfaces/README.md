@@ -11,3 +11,6 @@ Create a more realistic implementation.
 
 ## Interior Decorating
 Create a breakable implementation.
+
+## Key Collecting
+Create a collectible key.
