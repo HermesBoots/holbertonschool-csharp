@@ -112,9 +112,9 @@ public class Key : Base, ICollectable
     /// <summary>Creates a key with starting values for properties.</summary>
     /// <param name="name">This object's name.</param>
     /// <param name="collected">Whether this object has been collected.</param>
-    public Key(string name="Key", bool collected=false) {
+    public Key(string name="Key", bool isCollected=false) {
         this.name = name;
-        this.isCollected = collected;
+        this.isCollected = isCollected;
     }
 
     /// <summary>Pick up this key.</summary>

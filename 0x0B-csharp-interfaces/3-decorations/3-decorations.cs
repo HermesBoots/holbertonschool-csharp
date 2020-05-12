@@ -72,12 +72,12 @@ public class Decoration : Base, IBreakable, IInteractive
     /// <param name="name">The name of this item.</param>
     /// <param name="durability">The durability of this item.</param>
     /// <param name="questItem">Whether this is a quest item.</param>
-    public Decoration(string name="Decoration", int durability=1, bool questItem=false) {
+    public Decoration(string name="Decoration", int durability=1, bool isQuestItem=false) {
         if (durability < 1)
             throw new Exception("Durability must be greater than 0");
         this.name = name;
         this.durability = durability;
-        this.isQuestItem = questItem;
+        this.isQuestItem = isQuestItem;
     }
 
 
