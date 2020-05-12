@@ -17,3 +17,6 @@ Create a collectible key.
 
 ## Iterate and Act
 Operate on supported objects using conditional casting.
+
+## Better Iterating and Acting
+Iterate through room objects using generics.
