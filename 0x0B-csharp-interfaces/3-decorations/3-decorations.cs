@@ -62,10 +62,10 @@ public class Door : Base, IInteractive
 public class Decoration : Base, IBreakable, IInteractive
 {
     /// <summary><see cref="IBreakable.durability"/></summary>
-    public int durability { get; set; }
+    public int durability { get; set; } = 1;
 
     /// <summary>Whether this item is essential to game progression.</summary>
-    public bool isQuestItem;
+    public bool isQuestItem = false;
 
 
     /// <summary>Creates a decoration with starting values for properties.</summary>
