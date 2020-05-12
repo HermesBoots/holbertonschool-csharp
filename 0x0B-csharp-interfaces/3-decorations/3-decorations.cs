@@ -71,7 +71,7 @@ public class Decoration : Base, IBreakable, IInteractive
     /// <summary>Creates a decoration with starting values for properties.</summary>
     /// <param name="name">The name of this item.</param>
     /// <param name="durability">The durability of this item.</param>
-    /// <param name="questItem">Whether this is a quest item.</param>
+    /// <param name="isQuestItem">Whether this is a quest item.</param>
     public Decoration(string name="Decoration", int durability=1, bool isQuestItem=false) {
         if (durability < 1)
             throw new Exception("Durability must be greater than 0");
