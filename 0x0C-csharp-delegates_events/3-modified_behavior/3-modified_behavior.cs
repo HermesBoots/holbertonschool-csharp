@@ -4,7 +4,12 @@ using System;
 /// <summary>Represents tiers of effects on HP.</summary>
 public enum Modifier
 {
-    Weak, Base, Strong
+    /// <summary>An effect half as strong as normal.</summary>
+    Weak,
+    /// <summary>An effect with normal strength.</summary>
+    Base,
+    /// <summary>An effect with 50% more strength than normal.</summary>
+    Strong
 }
 
 /// <summary>Type of method that applies effects based on the tier.</summary>
