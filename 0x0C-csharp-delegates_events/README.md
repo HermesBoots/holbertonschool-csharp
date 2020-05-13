@@ -2,3 +2,6 @@
 
 ## Universal Health
 Simple class to be used later.
+
+## Damage Delegation
+Create a delegate type and initial methods.
