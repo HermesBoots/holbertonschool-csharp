@@ -28,6 +28,6 @@ public class Player
 
     /// <summary>Prints the health of the player.</summary>
     public void PrintHealth() {
-        Console.WriteLine("{0} has {1} / {2} health.", this.name, this.hp, this.maxHp);
+        Console.WriteLine("{0} has {1} / {2} health", this.name, this.hp, this.maxHp);
     }
 }
