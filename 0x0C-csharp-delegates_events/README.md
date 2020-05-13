@@ -11,3 +11,6 @@ Move side-effects to non-delegate method.
 
 ## Modified Behavior
 Create method to allow filtering original damage values.
+
+## Check Yourself
+Use an event in the workflow.
