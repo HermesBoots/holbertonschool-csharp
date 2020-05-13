@@ -14,3 +14,6 @@ Create method to allow filtering original damage values.
 
 ## Check Yourself
 Use an event in the workflow.
+
+## Eventful
+Swap event handler depending on other method.
