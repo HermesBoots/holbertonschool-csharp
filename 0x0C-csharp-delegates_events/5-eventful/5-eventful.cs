@@ -108,9 +108,9 @@ public class Player
     /// <param name="e">Arguments to this event.</param>
     private void HPValueWarning(object sender, CurrentHPArgs e) {
         if (e.currentHp == 0)
-            Console.WriteLine("\x1B[1;31mHealth has reached zero!\x1B[0m");
+            Console.WriteLine("Health has reached zero!");
         else
-            Console.WriteLine("\x1B[1;31mHealth is low!\x1B[0m");
+            Console.WriteLine("Health is low!");
     }
 
     /// <summary>Determines which HP status function to use.</summary>
