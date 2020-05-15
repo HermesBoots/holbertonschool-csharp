@@ -98,6 +98,8 @@ public class Player
     /// <summary>Heal the player.</summary>
     /// <param name="heal">Amount to heal player by.</param>
     public void HealDamage(float heal) {
+        if (heal < 0)
+            heal = 0;
         Console.WriteLine("{0} heals {1} HP!", this.name, heal);
         if (this.hp >= 0)
             this.ValidateHP(this.hp + heal);
@@ -111,6 +113,8 @@ public class Player
     /// <summary>Damage the player.</summary>
     /// <param name="damage">Amount of damage to deal.</param>
     public void TakeDamage(float damage) {
+        if (damage < 0)
+            damage = 0;
         Console.WriteLine("{0} takes {1} damage!", this.name, damage);
         if (this.hp >= 0)
             this.ValidateHP(this.hp - damage);
